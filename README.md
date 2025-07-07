@@ -50,5 +50,5 @@ Para ejecutar la calculadora, necesitas tener instalado:
    cd vlsm-calculator
 5. **Ejecuta la aplicación**:
    ```bash
-   cd vlsm.py
+   python vlsm.py
    
