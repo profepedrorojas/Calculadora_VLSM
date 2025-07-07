@@ -48,3 +48,7 @@ Para ejecutar la calculadora, necesitas tener instalado:
 4. **Navega al directorio del proyecto**:
    ```bash
    cd vlsm-calculator
+5. **Ejecuta la aplicación**:
+   ```bash
+   cd vlsm.py
+   
